@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-###This is a sample Laravel Project for Employee's Activity Management of any company. System Admin can assign task to the employees. Then Employee will see their task form their dashboard.
+###This is a simple Laravel ERP Project for Employee's Activity Management of any company. System Admin can assign task to the employees. Then Employee will see their task form their dashboard.
 
 
 
